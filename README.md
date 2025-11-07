@@ -52,7 +52,7 @@ Tạo QR code cho nhiều mục đích khác nhau:
 
 ### 🌐 Sử dụng trực tiếp
 
-**Live Demo:** [https://j2teamnnl.github.io/qr-code-generator](https://j2teamnnl.github.io/qr-code-generator)
+**Live Demo:** [https://qr-code-black-manh.vercel.app]
 
 ---
 
