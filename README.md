@@ -1,16 +1,5 @@
 # 🎯 QR Code Generator
 
-<div align="center">
-
-![Version](https://img.shields.io/badge/version-2.1.0-blue.svg)
-![License](https://img.shields.io/badge/license-MIT-green.svg)
-![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
-
-**Công cụ tạo mã QR miễn phí, mã nguồn mở với nhiều tùy chọn tùy chỉnh**
-
-</div>
-
----
 
 ## ✨ Tính năng
 
@@ -173,31 +162,17 @@ npm run check
 
 ---
 
-## 🤝 Đóng góp
 
-Chúng tôi rất hoan nghênh mọi đóng góp!
-
----
 
 ## 📄 License
 
 Dự án này được phân phối dưới **MIT License** - xem file [LICENSE](LICENSE) để biết thêm chi tiết.
 
----
 
-## 💖 Cảm ơn
-
-- Windsurf - Claude Sonnet
-- [QRCode.js](https://github.com/davidshimjs/qrcodejs) - Thư viện tạo QR code
-- [Tailwind CSS](https://tailwindcss.com/) - CSS framework
-- Tất cả contributors đã đóng góp cho dự án
-
----
 
 <div align="center">
 
 **⭐ Nếu thấy hữu ích, hãy star repo này! ⭐**
 
-Vibe code with ❤️ by [J2TeamNNL](https://github.com/j2teamnnl)
 
 </div>
